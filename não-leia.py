@@ -1,0 +1,1 @@
+print("Não precisa ler esta pagina, ela só esta aqui para eu conseguir subir o readme")
